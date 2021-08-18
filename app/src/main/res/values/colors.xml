@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryDark">#2C3A47</color>
+    <color name="primaryDark50">#2C3A4750</color>
+    <color name="lessDark">#2C4147</color>
+
+    <color name="primary">#EAB543</color>
+    <color name="primary700">#D2A23C</color>
+
+    <color name="secondary">#FD7272</color>
+    <color name="secondary700">#E36666</color>
+
+    <color name="text">#CAD3C8</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
