@@ -5,15 +5,23 @@
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.35260416666666666" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22335526315789472" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.18848684210526315" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.462037037037037" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.18848684210526315" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.18848684210526315" />
         <entry key="app/src/main/res/layout-v28/todo_item.xml" value="0.3233695652173913" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_app_navigator.xml" value="0.17418032786885246" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.20098684210526316" />
+        <entry key="app/src/main/res/layout/fragment_app_navigator.xml" value="0.17418032786885246" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.20986842105263157" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.35592105263157897" />
         <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.35592105263157897" />
         <entry key="app/src/main/res/layout/fragment_todo_details.xml" value="0.2131578947368421" />
         <entry key="app/src/main/res/layout/todo_item.xml" value="0.35592105263157897" />
         <entry key="app/src/main/res/menu/app_menu.xml" value="0.29791666666666666" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.21348684210526317" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22335526315789472" />
       </map>
     </option>
