@@ -3,4 +3,6 @@
     <string name="common_home">Home</string>
     <string name="common_search">Search</string>
     <string name="common_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
