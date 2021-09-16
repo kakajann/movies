@@ -3,22 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/navigationHome">
+    app:startDestination="@+id/navigation_home">
 
     <fragment
-        android:id="@+id/navigationHome"
+        android:id="@+id/navigation_home"
         android:name="com.kakajann.movies.ui.home.HomeFragment"
         android:label="@string/common_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigationSearch"
+        android:id="@+id/navigation_search"
         android:name="com.kakajann.movies.ui.search.SearchFragment"
         android:label="@string/common_search"
         tools:layout="@layout/fragment_search" />
 
     <fragment
-        android:id="@+id/navigationSettings"
+        android:id="@+id/navigation_settings"
         android:name="com.kakajann.movies.ui.settings.SettingsFragment"
         android:label="@string/common_settings"
         tools:layout="@layout/fragment_settings" />
