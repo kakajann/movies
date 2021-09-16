@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.widget.ViewPager2
+import com.google.android.material.tabs.TabLayout
 import com.kakajann.movies.R
 
 class HomeFragment : Fragment() {
@@ -20,6 +21,10 @@ class HomeFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        setupTabs(view)
+    }
+
+    private fun setupTabs(view: View) {
         val viewPager: ViewPager2 = view.findViewById(R.id.vp2_home)
 
         val fragments: ArrayList<Fragment> = arrayListOf(
