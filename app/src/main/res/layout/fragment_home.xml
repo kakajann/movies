@@ -13,7 +13,10 @@
         android:contentDescription="@string/common_movies"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/primary"
+        android:background="@color/primaryDark"/>
 
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/vp2_home"
