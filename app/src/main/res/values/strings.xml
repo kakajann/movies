@@ -3,6 +3,8 @@
     <string name="common_home">Home</string>
     <string name="common_search">Search</string>
     <string name="common_settings">Settings</string>
+    <string name="common_movies">Movies</string>
+    <string name="common_tv_series">TV Series</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
